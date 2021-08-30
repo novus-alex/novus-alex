@@ -1,8 +1,5 @@
-## Hi there
 
-Being an aerospace and electronics enthusiast, I spend most of my time developing software and electronic boards to support my projects.
-I am currently developing an amateur rocket, controlled by an electronic board using a TVC (Thrust Vectoring Control).
-On my profile you can find all the documents I have developed for my projects!
+Hello! I'm Alex, a hobbyist programmer from CPGE-PCSI in France. Here yopu can find all my projects I worked on!
 
 <details>
       <summary> Statistics </summary>
