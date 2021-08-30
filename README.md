@@ -4,6 +4,16 @@ Being an aerospace and electronics enthusiast, I spend most of my time developin
 I am currently developing an amateur rocket, controlled by an electronic board using a TVC (Thrust Vectoring Control).
 On my profile you can find all the documents I have developed for my projects!
 
-### Some Cool Stuff
-![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fase_rl)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=novus-alex.novus-alex)
+<details>
+      <summary> Statistics </summary>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=novus-alex&show_icons=true&include_all_commits=true&theme=dracula"/>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novus-alex&layout=compact&theme=dracula"/>
+  </p>
+</details>
+
+<p align="center">
+  Visitor count<br>
+  <imd src="https://profile-counter.glitch.me/novus-alex/count.svg"/>
+</p>
