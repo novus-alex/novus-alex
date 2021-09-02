@@ -1,5 +1,5 @@
 
-Hello! I'm Alex, a hobbyist programmer from CPGE-PCSI in France. Here yopu can find all my projects I worked on!
+Hello! I'm Alex, a hobbyist programmer in France. Here you can find all my projects I worked on!
 
 <details>
       <summary> Statistics </summary>
